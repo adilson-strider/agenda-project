@@ -1,1 +1,3 @@
-# agenda-project
+# Projeto Agenda (JavaScript + Node + Express + MongoDB)
+
+Em construção...
